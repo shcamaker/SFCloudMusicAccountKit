@@ -1,0 +1,35 @@
+{
+  "name": "SFCloudMusicAccountKit",
+  "version": "0.1.0",
+  "summary": "SFCloudMusicAccountKit.",
+  "description": "A short description of SFCloudMusicAccountKit",
+  "homepage": "https://github.com/shcamaker/SFCloudMusicAccountKit",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "shcamaker": "alex.shen@wesoft.com"
+  },
+  "source": {
+    "git": "https://github.com/shcamaker/SFCloudMusicAccountKit.git",
+    "tag": "0.1.0"
+  },
+  "swift_versions": "5.0",
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "SFCloudMusicAccountKit/Classes/**/*",
+  "dependencies": {
+    "RxSwift": [
+      "~> 5"
+    ],
+    "RxCocoa": [
+      "~> 5"
+    ],
+    "Action": [
+
+    ]
+  },
+  "swift_version": "5.0"
+}
